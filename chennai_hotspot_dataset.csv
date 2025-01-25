@@ -1,0 +1,101 @@
+Zone,Latitude,Longitude,Accident_Count,Fatalities,Grievous_Injuries,Minor_Injuries,Vehicle_Type,Cause
+Thiruvanmiyur,12.996878,80.259408,19,1,10,4,Mixed,Drunken Driving
+Thiruvanmiyur,12.993802,80.264362,17,0,10,9,Two Wheeler,Speeding
+Velachery,12.975827,80.229392,15,4,3,9,Two Wheeler,Reckless Driving
+Tambaram,12.917351,80.135205,13,4,4,15,Two Wheeler,Speeding
+Mount Road,13.039039,80.274694,7,0,7,14,Mixed,Reckless Driving
+Mount Road,13.042105,80.269468,19,4,3,4,Two Wheeler,Drunken Driving
+T. Nagar,13.047556,80.224175,1,3,2,2,Two Wheeler,Drunken Driving
+Vadapalani,13.047432,80.215224,4,5,9,3,Two Wheeler,Drunken Driving
+Adyar,13.006384,80.251204,15,1,7,11,Mixed,Speeding
+Adyar,13.000521,80.25212,6,1,6,2,Four Wheeler,Drunken Driving
+Guindy,13.003379,80.221793,20,3,0,11,Mixed,Speeding
+Mount Road,13.046788,80.270032,5,5,6,15,Four Wheeler,Reckless Driving
+Mount Road,13.03908,80.269256,16,1,3,7,Two Wheeler,Reckless Driving
+Pallavaram,12.957427,80.150108,15,0,10,7,Mixed,Reckless Driving
+Velachery,12.984314,80.22025,10,2,0,12,Two Wheeler,Reckless Driving
+Guindy,13.01723,80.221236,12,4,9,4,Mixed,Drunken Driving
+Pallavaram,12.976538,80.142612,9,0,2,10,Mixed,Speeding
+Pallavaram,12.974231,80.153632,4,4,1,13,Two Wheeler,Reckless Driving
+Adyar,13.013265,80.250362,6,0,1,6,Two Wheeler,Speeding
+Anna Salai,13.041475,80.266698,19,4,4,4,Two Wheeler,Speeding
+Adyar,13.0082,80.247424,1,3,3,15,Four Wheeler,Speeding
+Adyar,13.003052,80.262189,2,0,9,1,Two Wheeler,Reckless Driving
+Tambaram,12.91641,80.117588,19,5,9,12,Mixed,Reckless Driving
+Anna Salai,13.057188,80.249084,17,3,8,12,Two Wheeler,Drunken Driving
+Adyar,13.004827,80.263592,8,3,2,14,Four Wheeler,Drunken Driving
+Pallavaram,12.966287,80.150062,4,2,9,3,Four Wheeler,Drunken Driving
+Anna Salai,13.041318,80.265926,18,0,4,6,Two Wheeler,Drunken Driving
+Mount Road,13.033107,80.269137,3,2,1,3,Two Wheeler,Reckless Driving
+Guindy,13.007072,80.214338,16,5,8,5,Two Wheeler,Reckless Driving
+Anna Salai,13.042286,80.260035,1,3,6,12,Four Wheeler,Speeding
+Velachery,12.975942,80.219185,3,5,0,9,Mixed,Reckless Driving
+Velachery,12.974071,80.2149,20,5,6,6,Four Wheeler,Reckless Driving
+Thiruvanmiyur,12.986184,80.260963,7,0,10,6,Four Wheeler,Drunken Driving
+Guindy,13.017463,80.226161,20,3,6,2,Four Wheeler,Drunken Driving
+Guindy,13.007559,80.224155,3,4,9,6,Two Wheeler,Drunken Driving
+Pallavaram,12.962479,80.151095,13,5,0,15,Mixed,Drunken Driving
+Pallavaram,12.958386,80.160666,5,1,10,2,Mixed,Reckless Driving
+Mount Road,13.047508,80.269612,16,0,4,4,Two Wheeler,Drunken Driving
+Vadapalani,13.057407,80.213906,20,0,1,7,Two Wheeler,Speeding
+Tambaram,12.923738,80.130389,6,3,8,12,Four Wheeler,Reckless Driving
+Vadapalani,13.048102,80.202606,18,5,10,4,Two Wheeler,Reckless Driving
+Mount Road,13.032589,80.266095,1,3,1,13,Four Wheeler,Speeding
+T. Nagar,13.031148,80.234779,13,3,1,5,Four Wheeler,Drunken Driving
+Adyar,13.01548,80.265137,15,3,1,11,Four Wheeler,Drunken Driving
+Tambaram,12.915412,80.121042,9,5,3,4,Four Wheeler,Speeding
+Velachery,12.980938,80.22498,1,2,6,5,Mixed,Drunken Driving
+Thiruvanmiyur,12.990498,80.260746,9,4,1,15,Mixed,Speeding
+Guindy,13.018132,80.220399,6,5,4,12,Mixed,Speeding
+Vadapalani,13.039676,80.207258,16,3,9,0,Four Wheeler,Speeding
+Pallavaram,12.963772,80.147161,1,3,4,15,Four Wheeler,Reckless Driving
+Mount Road,13.04403,80.275787,2,4,1,3,Mixed,Reckless Driving
+Pallavaram,12.959976,80.142491,6,0,0,15,Four Wheeler,Drunken Driving
+T. Nagar,13.048181,80.22305,7,0,6,8,Two Wheeler,Speeding
+Velachery,12.982442,80.211365,15,4,3,15,Four Wheeler,Reckless Driving
+Velachery,12.96652,80.216738,9,3,4,6,Mixed,Drunken Driving
+Anna Salai,13.051434,80.257285,20,0,9,11,Two Wheeler,Speeding
+Pallavaram,12.973548,80.155599,4,1,2,2,Two Wheeler,Speeding
+Guindy,13.005183,80.210303,17,1,4,9,Four Wheeler,Drunken Driving
+Pallavaram,12.970166,80.157407,10,0,7,7,Four Wheeler,Drunken Driving
+Tambaram,12.920423,80.121915,4,4,5,11,Mixed,Speeding
+Tambaram,12.910844,80.128875,12,2,1,8,Two Wheeler,Reckless Driving
+Tambaram,12.928281,80.123024,11,0,7,9,Four Wheeler,Reckless Driving
+Tambaram,12.926253,80.125953,14,1,8,0,Mixed,Reckless Driving
+Velachery,12.971193,80.214908,16,1,4,12,Two Wheeler,Drunken Driving
+Guindy,13.014988,80.221885,5,3,9,7,Two Wheeler,Drunken Driving
+Guindy,13.005599,80.214939,2,1,1,5,Four Wheeler,Speeding
+Vadapalani,13.055671,80.202329,18,3,8,15,Two Wheeler,Reckless Driving
+Pallavaram,12.962569,80.154108,18,0,4,10,Two Wheeler,Drunken Driving
+Tambaram,12.910334,80.121108,3,2,1,1,Mixed,Speeding
+Velachery,12.971733,80.216854,10,3,6,15,Four Wheeler,Reckless Driving
+Pallavaram,12.958488,80.146128,4,3,8,3,Mixed,Drunken Driving
+Velachery,12.978109,80.218565,7,2,4,2,Four Wheeler,Reckless Driving
+Vadapalani,13.041823,80.208473,13,0,6,3,Two Wheeler,Reckless Driving
+Pallavaram,12.970845,80.145735,1,3,9,14,Two Wheeler,Reckless Driving
+Mount Road,13.041883,80.267165,1,2,10,0,Four Wheeler,Speeding
+Guindy,13.014402,80.229057,10,2,10,0,Mixed,Drunken Driving
+Vadapalani,13.04281,80.216191,2,2,1,10,Two Wheeler,Drunken Driving
+Anna Salai,13.040634,80.259352,2,5,8,4,Two Wheeler,Reckless Driving
+Mount Road,13.031252,80.270547,17,5,8,0,Four Wheeler,Speeding
+Thiruvanmiyur,12.983103,80.252149,13,2,0,8,Four Wheeler,Drunken Driving
+Guindy,13.015384,80.218782,18,4,3,12,Four Wheeler,Drunken Driving
+Thiruvanmiyur,12.990094,80.254141,11,5,5,11,Mixed,Drunken Driving
+Tambaram,12.912229,80.129288,16,2,9,5,Four Wheeler,Drunken Driving
+Velachery,12.966168,80.218841,20,2,10,13,Four Wheeler,Speeding
+Velachery,12.98117,80.212966,16,1,0,3,Four Wheeler,Reckless Driving
+T. Nagar,13.049861,80.232377,10,2,4,10,Four Wheeler,Speeding
+Velachery,12.967276,80.213553,8,2,6,4,Two Wheeler,Reckless Driving
+Thiruvanmiyur,12.997168,80.256074,16,0,10,15,Four Wheeler,Drunken Driving
+Anna Salai,13.050458,80.258467,3,5,9,13,Four Wheeler,Speeding
+Velachery,12.966192,80.215008,16,2,3,9,Four Wheeler,Speeding
+Adyar,13.006725,80.256089,20,5,3,9,Two Wheeler,Speeding
+Pallavaram,12.97645,80.14392,12,2,2,3,Mixed,Drunken Driving
+Velachery,12.981813,80.211504,15,2,6,9,Two Wheeler,Reckless Driving
+Guindy,13.010234,80.224837,20,4,4,10,Mixed,Reckless Driving
+T. Nagar,13.039531,80.224486,13,4,8,4,Two Wheeler,Speeding
+Guindy,13.015632,80.216905,12,4,4,5,Mixed,Reckless Driving
+Anna Salai,13.043287,80.263245,11,2,0,15,Four Wheeler,Speeding
+Anna Salai,13.040892,80.263396,20,1,8,0,Four Wheeler,Speeding
+Velachery,12.970475,80.21265,1,5,6,15,Two Wheeler,Reckless Driving
+Mount Road,13.048055,80.261556,15,4,0,15,Four Wheeler,Speeding
